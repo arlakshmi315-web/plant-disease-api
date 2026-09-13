@@ -1,0 +1,122 @@
+{
+  "Pepper__bell___Bacterial_spot": {
+    "display_name": "Bell Pepper - Bacterial Spot",
+    "cause": "Bacterial (Xanthomonas campestris pv. vesicatoria)",
+    "symptoms": "Small, dark, water-soaked spots on leaves and fruit that later turn brown with a yellow halo.",
+    "treatment": "Copper-based bactericide sprays (e.g., copper hydroxide) applied at first sign of disease.",
+    "organic_alternative": "Copper soap fungicide/bactericide; remove and destroy infected plant debris.",
+    "prevention": "Use disease-free seed, avoid overhead watering, rotate crops, avoid working in fields when plants are wet."
+  },
+  "Pepper__bell___healthy": {
+    "display_name": "Bell Pepper - Healthy",
+    "cause": "None - plant is healthy",
+    "symptoms": "No visible disease symptoms.",
+    "treatment": "No treatment needed.",
+    "organic_alternative": "N/A",
+    "prevention": "Continue regular watering, balanced fertilization, and monitoring for early signs of pests or disease."
+  },
+  "Potato___Early_blight": {
+    "display_name": "Potato - Early Blight",
+    "cause": "Fungal (Alternaria solani)",
+    "symptoms": "Dark brown spots with concentric rings (target-like pattern) on older leaves first.",
+    "treatment": "Fungicides containing chlorothalonil or mancozeb, applied every 7-10 days once symptoms appear.",
+    "organic_alternative": "Copper-based fungicide or neem oil spray; remove infected lower leaves.",
+    "prevention": "Rotate crops (avoid planting potatoes/tomatoes in the same spot yearly), ensure good spacing for airflow, avoid overhead irrigation."
+  },
+  "Potato___Late_blight": {
+    "display_name": "Potato - Late Blight",
+    "cause": "Fungal-like oomycete (Phytophthora infestans)",
+    "symptoms": "Water-soaked lesions on leaves that rapidly turn brown/black; white fungal growth on leaf undersides in humid conditions.",
+    "treatment": "Copper-based fungicide (copper oxychloride) or chlorothalonil, applied immediately at first symptoms - this disease spreads fast.",
+    "organic_alternative": "Copper fungicide sprays; remove and destroy infected plants immediately to stop spread.",
+    "prevention": "Avoid overhead watering, ensure good air circulation, plant resistant varieties, destroy volunteer potato plants."
+  },
+  "Potato___healthy": {
+    "display_name": "Potato - Healthy",
+    "cause": "None - plant is healthy",
+    "symptoms": "No visible disease symptoms.",
+    "treatment": "No treatment needed.",
+    "organic_alternative": "N/A",
+    "prevention": "Continue regular watering, balanced fertilization, and monitoring for early signs of pests or disease."
+  },
+  "Tomato_Bacterial_spot": {
+    "display_name": "Tomato - Bacterial Spot",
+    "cause": "Bacterial (Xanthomonas species)",
+    "symptoms": "Small, dark, greasy-looking spots on leaves, stems, and fruit.",
+    "treatment": "Copper-based bactericide sprays combined with mancozeb for better control.",
+    "organic_alternative": "Copper soap spray; remove and destroy infected leaves and debris.",
+    "prevention": "Use certified disease-free seeds/transplants, avoid overhead watering, rotate crops every 2-3 years."
+  },
+  "Tomato_Early_blight": {
+    "display_name": "Tomato - Early Blight",
+    "cause": "Fungal (Alternaria solani)",
+    "symptoms": "Dark spots with concentric rings on older/lower leaves, which then yellow and drop.",
+    "treatment": "Fungicides containing chlorothalonil, mancozeb, or copper compounds.",
+    "organic_alternative": "Neem oil or copper fungicide spray; mulch around base to prevent soil splash onto leaves.",
+    "prevention": "Rotate crops, stake plants for airflow, water at the base rather than overhead, remove lower infected leaves promptly."
+  },
+  "Tomato_Late_blight": {
+    "display_name": "Tomato - Late Blight",
+    "cause": "Fungal-like oomycete (Phytophthora infestans)",
+    "symptoms": "Large, irregular, water-soaked patches on leaves that turn brown/black quickly; white mold on undersides in humid weather.",
+    "treatment": "Copper-based fungicide or chlorothalonil applied immediately - this disease can destroy a crop within days in humid weather.",
+    "organic_alternative": "Copper fungicide spray; remove and destroy all infected plants immediately, do not compost.",
+    "prevention": "Plant resistant varieties, avoid overhead watering, ensure good spacing and airflow, monitor closely during humid/wet weather."
+  },
+  "Tomato_Leaf_Mold": {
+    "display_name": "Tomato - Leaf Mold",
+    "cause": "Fungal (Passalora fulva, formerly Fulvia fulva)",
+    "symptoms": "Pale green/yellow spots on upper leaf surface with olive-green to grayish-purple mold on the underside.",
+    "treatment": "Fungicides containing chlorothalonil or copper compounds; improve ventilation especially in greenhouses.",
+    "organic_alternative": "Copper fungicide spray; increase spacing and ventilation to reduce humidity around plants.",
+    "prevention": "Reduce humidity around plants (greenhouse ventilation), avoid overhead watering, remove and destroy infected leaves."
+  },
+  "Tomato_Septoria_leaf_spot": {
+    "display_name": "Tomato - Septoria Leaf Spot",
+    "cause": "Fungal (Septoria lycopersici)",
+    "symptoms": "Small, circular spots with dark borders and gray/tan centers, usually starting on lower leaves.",
+    "treatment": "Fungicides containing chlorothalonil or copper, applied at first sign and repeated every 7-10 days.",
+    "organic_alternative": "Copper fungicide spray; remove infected lower leaves and mulch to prevent soil splash.",
+    "prevention": "Rotate crops, avoid overhead watering, stake/prune for airflow, clean up plant debris at season end."
+  },
+  "Tomato_Spider_mites_Two_spotted_spider_mite": {
+    "display_name": "Tomato - Two-Spotted Spider Mite Damage",
+    "cause": "Pest infestation (Tetranychus urticae, a mite - not a disease)",
+    "symptoms": "Fine yellow/white stippling on leaves, fine webbing on undersides in heavy infestations, leaves may bronze and dry out.",
+    "treatment": "Miticide sprays (e.g., abamectin) or insecticidal soap; horticultural oils also help.",
+    "organic_alternative": "Neem oil or insecticidal soap spray; introduce predatory mites as biological control; spray plants with water to dislodge mites.",
+    "prevention": "Keep plants well-watered (mites thrive in dry, dusty conditions), avoid excessive nitrogen fertilizer, monitor regularly."
+  },
+  "Tomato__Target_Spot": {
+    "display_name": "Tomato - Target Spot",
+    "cause": "Fungal (Corynespora cassiicola)",
+    "symptoms": "Brown lesions with concentric rings (target-like) on leaves, stems, and fruit.",
+    "treatment": "Fungicides containing chlorothalonil or azoxystrobin.",
+    "organic_alternative": "Copper fungicide spray; remove and destroy infected plant material.",
+    "prevention": "Improve air circulation, avoid overhead watering, rotate crops, remove plant debris after harvest."
+  },
+  "Tomato__Tomato_YellowLeaf__Curl_Virus": {
+    "display_name": "Tomato - Yellow Leaf Curl Virus",
+    "cause": "Viral (Tomato yellow leaf curl virus, spread by whiteflies)",
+    "symptoms": "Upward curling and yellowing of leaves, stunted growth, reduced fruit production.",
+    "treatment": "No cure once infected - focus shifts to controlling the whitefly vector with insecticides (e.g., imidacloprid) and removing infected plants.",
+    "organic_alternative": "Insecticidal soap or neem oil to control whiteflies; use reflective mulches to repel whiteflies; remove and destroy infected plants.",
+    "prevention": "Use virus-resistant tomato varieties, control whitefly populations, use row covers on young plants, remove weeds that can host the virus."
+  },
+  "Tomato__Tomato_mosaic_virus": {
+    "display_name": "Tomato - Mosaic Virus",
+    "cause": "Viral (Tomato mosaic virus)",
+    "symptoms": "Mottled light/dark green pattern on leaves, leaf curling, stunted growth, distorted fruit.",
+    "treatment": "No cure once infected - remove and destroy infected plants to prevent spread; disinfect tools between plants.",
+    "organic_alternative": "No organic treatment cures the virus; focus on removing infected plants and sanitizing equipment.",
+    "prevention": "Use certified virus-free seeds, wash hands and disinfect tools between handling plants, control aphids which can spread the virus, avoid tobacco use near plants (virus can spread from tobacco products)."
+  },
+  "Tomato_healthy": {
+    "display_name": "Tomato - Healthy",
+    "cause": "None - plant is healthy",
+    "symptoms": "No visible disease symptoms.",
+    "treatment": "No treatment needed.",
+    "organic_alternative": "N/A",
+    "prevention": "Continue regular watering, balanced fertilization, and monitoring for early signs of pests or disease."
+  }
+}
