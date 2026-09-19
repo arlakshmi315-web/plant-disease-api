@@ -237,7 +237,7 @@ async def predict(file: UploadFile, latitude: float = None, longitude: float = N
     return {
         "disease": class_name,
         "confidence": round(confidence * 100, 2),
-        "low_confidence": confidence < 0.6,
+        "low_confidence": confidence < 0.9,
         "top3": top3,
         "info": disease_info.get(class_name, {}),
     }
